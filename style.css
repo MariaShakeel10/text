@@ -1,0 +1,80 @@
+*{
+    background-color: beige;
+}
+.main-head {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: black;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 6px rgb(52, 45, 50);
+    text-align: center;
+}
+
+div>h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    text-transform: lowercase;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+    color: #F72798;
+}
+
+div>h2 {
+    text-shadow: 4px 4px 5px;
+    text-align: center;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: #EBF400;
+    text-align: justify;
+    text-decoration: underline;
+}
+
+.types>h3 {
+    color: #e46300;
+    text-decoration: dotted;
+    font-weight: 50;
+}
+
+.types>p {
+    font-stretch: expanded;
+    background-color: antiquewhite;
+}
+
+.types>p:first-letter {
+    font-style: bold;
+    font-size: larger;
+}
+
+a {
+    color: #F72798;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover {
+    color: #8c014e;
+}
+
+a:visited {
+    color: #cd2557;
+}
+
+h1 {
+    font-size: 60pt;
+    color: black;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 6px rgb(52, 45, 50);
+    text-align: center;
+}
+
+div>a:focus {color: #8c014e;
+text-transform: capitalize;}
